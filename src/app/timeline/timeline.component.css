@@ -1,0 +1,14 @@
+.page-content {
+  margin-top: 2rem;
+}
+
+.button-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-top: 1rem;
+}
+/*# sourceMappingURL=timeline.component.css.map */
